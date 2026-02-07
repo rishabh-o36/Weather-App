@@ -11,7 +11,7 @@ body{
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    color: wheat;
+    color: blue;
     background: linear-gradient(to top, #0f2027, #203a43, #2c5364);
     position: relative;
     transition: background 0.8s ease;
@@ -198,3 +198,4 @@ body.day::after{
     display: none;
     color: #ffcccc;
 }
+
