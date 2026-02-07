@@ -11,7 +11,8 @@ body{
     justify-content: center;
     align-items: center;
     overflow: hidden;
-    color: blue;
+    color: #f5f7fa;
+    text-shadow: 0 2px 8px rgba(0,0,0,0.4);
     background: linear-gradient(to top, #0f2027, #203a43, #2c5364);
     position: relative;
     transition: background 0.8s ease;
@@ -198,4 +199,5 @@ body.day::after{
     display: none;
     color: #ffcccc;
 }
+
 
