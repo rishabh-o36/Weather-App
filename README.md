@@ -7,7 +7,7 @@ It fetches real-time weather data using the OpenWeatherMap API and displays temp
 ---
 
 ## 🚀 Live Demo
-( Add your Vercel link here )
+( https://weatherapp-tawny-ten.vercel.app/ )
 
 ---
 
