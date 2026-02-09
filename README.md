@@ -45,5 +45,3 @@ In this project:
 - The API returns weather data in JSON format
 - I extract that data and display it on the webpage
 
-Example API Request:
-
